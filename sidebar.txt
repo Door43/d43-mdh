@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mdh:home|Door43 (mdh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mdh|d43-mdh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mdh/archive/master.zip|d43-mdh.zip]]
+
+**Recent Changes**
+{{changes>ns = mdh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mdh|Ethnologue data]]
+
